@@ -13,7 +13,7 @@ echo "${k}||__||||__||||__||||__||||__|| ";
 echo "${k}|/__\||/__\||/__\||/__\||/__\| ";
 
 echo
-echo "Deseas instalar Ngrok? [Y/n]"
+echo "Deseas instalar Ngrok? [y/n]"
 read opcao
 case $opcao in
 y)
